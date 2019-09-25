@@ -1,2 +1,2 @@
 # firstGitPoject
-This is my first Git Project, created from local
+This is my first Git Project, created from local local
